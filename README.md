@@ -33,7 +33,7 @@
 ```
 Racaty, Hxfile, Anonfiles, Femax20, Layarkacaxxi,
 Uptobox (Uptobox account must be premium),
-Onedrive (Only works for file not folder and busines)
+Onedrive (Only works for file not folder or busines account)
 ```
 ## From Original Repos
 - Mirroring direct download links, Torrent, and Telegram files to Google Drive
