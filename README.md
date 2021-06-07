@@ -17,7 +17,7 @@
 # Features supported:
 
 ## Additional Features
-- Get detailed info about replied media
+- Get detailed info about replied media (Only for Telegram file)
 - Nyaa.si and Sukebei Torrent search
 - Speedtest with picture results
 - Limiting Torrent size support
